@@ -1,5 +1,24 @@
 # Signal-app
 
+Key Features of Signal:  <br>
+🔹 Real-Time Messaging: Leveraging socket.io, Signal ensures instant message delivery and updates, providing a seamless chatting experience.
+
+🔹 User Authentication: Integrated secure user authentication to keep conversations private and secure.
+
+🔹 Responsive UI: A sleek and intuitive user interface designed to deliver a smooth user experience across different devices.
+
+🔹 Message Storage: Implemented backend support with Express.js and MongoDB to store and retrieve chat histories efficiently.
+
+Technologies Used:
+
+React Native: For building cross-platform mobile applications.<br>
+Socket.io: To enable real-time communication between users.<br>
+Express.js: As the backend framework for server-side logic.<br>
+MongoDB: For database management and message storage.
+Axios: For handling API requests.
+
+
+
 # DEMO Video
 [![Demo Video](https://github.com/Shahan-Alii/Signal-app/assets/169588483/1606d51c-9329-455c-b5e5-d75bb55ae539)](https://github.com/Shahan-Alii/Signal-app/assets/169588483/1606d51c-9329-455c-b5e5-d75bb55ae539)
 
