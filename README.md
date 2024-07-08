@@ -11,7 +11,7 @@ Key Features of Signal:  <br>
 
 Technologies Used:
 
-React Native: For building cross-platform mobile applications.<br>
+React Native: For building cross-platform mobile application.<br>
 Socket.io: To enable real-time communication between users.<br>
 Express.js: As the backend framework for server-side logic.<br>
 MongoDB: For database management and message storage.
